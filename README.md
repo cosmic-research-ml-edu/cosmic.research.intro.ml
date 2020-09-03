@@ -11,8 +11,8 @@ There will be several types of hw:
 
 
 # Communication
-- email
-- telegram chat room
-- telegram news channel
+- email `сosmic.research.ml@yandex.ru`
+- telegram chat room https://t.me/joinchat/EXBdkhxnNK0MGSB1IaBYvA
+- telegram news channel https://t.me/joinchat/AAAAAEr_pPlB7IeqODUzuA
 
 # Deadlines
