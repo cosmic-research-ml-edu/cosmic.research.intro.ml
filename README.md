@@ -15,4 +15,14 @@ There will be several types of hw:
 - telegram chat room https://t.me/joinchat/EXBdkhxnNK0MGSB1IaBYvA
 - telegram news channel https://t.me/joinchat/AAAAAEr_pPlB7IeqODUzuA
 
-# Deadlines
+
+# Lectures and seminars
+| #   | Date | Lecture | Seminar |
+| --- | ---- | ------- | ------- |
+| 1  | 1970-01-01 | Introduction | Course technical details |
+
+# Homeworks and deadlines
+| #   | Name | Date Published | Deadline |
+| --- | ---- | -------------- | -------- |
+| 1  | HW#1 | 1970-01-01 | 1970-01-14 23:59 |
+
