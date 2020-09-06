@@ -19,10 +19,27 @@ There will be several types of hw:
 # Lectures and seminars
 | #   | Date | Lecture | Seminar |
 | --- | ---- | ------- | ------- |
-| 1  | 1970-01-01 | Introduction | Course technical details |
+| 1  | 1970-01-01 | Introduction to the topic | About homeworks, tasks evaluation and technical details |
+| 2  | 1970-01-01 | Metric Algorithms, kNN | Matrix Derivatives |
+| 3  | 1970-01-01 | Decision Trees | Quality of classification |
+| 4  | 1970-01-01 | Linear Models | PCA and SVD |
+| 5  | 1970-01-01 | SVM | On crossvalidation and data preprocessing |
+| 6  | 1970-01-01 | Regularized Linear Models | Homework discussions |
+| 7  | 1970-01-01 | Time Series | Practical Analytics: How to build alerting system |
+| 8  | 1970-01-01 | EM, Clustering | To be anounced |
+| 9  | 1970-01-01 | Bayes approach | To be anounced |
+| 10 | 1970-01-01 | Language models| To be anounced |
+| 11 | 1970-01-01 | Ranking | To be anounced |
+| 12 | 1970-01-01 | To be anounced | To be anounced |
+
+
 
 # Homeworks and deadlines
 | #   | Name | Date Published | Deadline |
 | --- | ---- | -------------- | -------- |
-| 1  | HW#1 | 1970-01-01 | 1970-01-14 23:59 |
+| 1  | HW#1  | Week 2 | Week 4 |
+| 2  | HW#1  | Week 4 | Week 6 |
+| 3  | HW#1  | Week 6 | Week 8 |
+| 4  | HW#1  | Week 8 | Week 10 |
+| 5  | HW#1  | Week 10 | Week 12 |
 
