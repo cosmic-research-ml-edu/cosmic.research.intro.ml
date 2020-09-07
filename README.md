@@ -3,12 +3,10 @@
 This is a repo for a course at the Department of Cosmic Research, MSU. The course covers the very basic concepts of ML, it will be obligatory for 4th year students, but in 2020 it is an elective course.
 
 # General info
-The course consists of 11-12 lectures and seminars and 5-6 homeworks.
-There will be several types of hw:
-- Theoretical (classical problem solving with pen and paper)
-- Practical (Jupyther Notebooks)
-- Kaggle competitions
-
+- The course consists of 11-12 lectures and seminars and 5-6 homeworks.
+- All lectures and seminars will be held **online** via Zoom and probably recorded (Zoom screen capture).
+- PDFs with lecture slides will be published.
+- All homeworks are to be submitted **online**.
 
 # Communication
 - email `сosmic.research.ml@yandex.ru`
@@ -18,8 +16,8 @@ There will be several types of hw:
 
 # Lectures and seminars
 The timetable may be change.
-Lectures: 13:00 - 14:30 (UTC+3)
-Seminars: 14:40 - 16:10 (UTC+3)
+- Lectures: 13:00 - 14:30 (UTC+3)
+- Seminars: 14:40 - 16:10 (UTC+3)
 | #   | Date | Lecture | Seminar |
 | --- | ---- | ------- | ------- |
 | 1  | 2020-09-18 | Introduction to the topic | About homeworks, tasks evaluation and technical details |
