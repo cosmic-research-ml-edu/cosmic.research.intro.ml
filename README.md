@@ -7,6 +7,7 @@ This is a repo for a course at the Department of Cosmic Research, MSU. The cours
 - All lectures and seminars will be held **online** via Zoom and probably recorded (Zoom screen capture).
 - PDFs with lecture slides will be published.
 - All homeworks are to be submitted **online**.
+- There will be no exams, final mark is based on homeworks only.
 
 # Communication
 - email `сosmic.research.ml@yandex.ru`
