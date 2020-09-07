@@ -19,18 +19,18 @@ There will be several types of hw:
 # Lectures and seminars
 | #   | Date | Lecture | Seminar |
 | --- | ---- | ------- | ------- |
-| 1  | 1970-01-01 | Introduction to the topic | About homeworks, tasks evaluation and technical details |
-| 2  | 1970-01-01 | Metric Algorithms, kNN | Matrix Derivatives |
-| 3  | 1970-01-01 | Decision Trees | Quality of classification |
-| 4  | 1970-01-01 | Linear Models | PCA and SVD |
-| 5  | 1970-01-01 | SVM | On crossvalidation and data preprocessing |
-| 6  | 1970-01-01 | Regularized Linear Models | Homework discussions |
-| 7  | 1970-01-01 | Time Series | Practical Analytics: How to build alerting system |
-| 8  | 1970-01-01 | EM, Clustering | To be anounced |
-| 9  | 1970-01-01 | Bayes approach | To be anounced |
-| 10 | 1970-01-01 | Language models| To be anounced |
-| 11 | 1970-01-01 | Ranking | To be anounced |
-| 12 | 1970-01-01 | To be anounced | To be anounced |
+| 1  | 2020-09-18 | Introduction to the topic | About homeworks, tasks evaluation and technical details |
+| 2  | 2020-09-25 | Metric Algorithms, kNN | Matrix Derivatives |
+| 3  | 2020-10-02 | Decision Trees | Quality of classification |
+| 4  | 2020-10-09 | Linear Models | PCA and SVD |
+| 5  | 2020-10-16 | SVM | On crossvalidation and data preprocessing |
+| 6  | 2020-10-23 | Regularized Linear Models | Homework discussions |
+| 7  | 2020-10-30 | Time Series | Practical Analytics: How to build alerting system |
+| 8  | 2020-11-06 | EM, Clustering | To be anounced |
+| 9  | 2020-11-13 | Bayes approach | To be anounced |
+| 10 | 2020-11-20 | Language models| To be anounced |
+| 11 | 2020-11-27 | Ranking | To be anounced |
+| 12 | 2020-12-04 | To be anounced | To be anounced |
 
 
 
