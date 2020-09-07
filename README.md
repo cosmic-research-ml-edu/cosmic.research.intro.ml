@@ -18,8 +18,9 @@ This is a repo for a course at the Department of Cosmic Research, MSU. The cours
 The timetable may be change.
 - Lectures: 13:00 - 14:30 (UTC+3)
 - Seminars: 14:40 - 16:10 (UTC+3)
-| #   | Date | Lecture | Seminar |
-| --- | ---- | ------- | ------- |
+
+| #  | Date | Lecture | Seminar |
+| -- | ---- | ------- | ------- |
 | 1  | 2020-09-18 | Introduction to the topic | About homeworks, tasks evaluation and technical details |
 | 2  | 2020-09-25 | Metric Algorithms, kNN | Matrix Derivatives |
 | 3  | 2020-10-02 | Decision Trees | Quality of classification |
