@@ -12,11 +12,14 @@ There will be several types of hw:
 
 # Communication
 - email `сosmic.research.ml@yandex.ru`
-- telegram chat room https://t.me/joinchat/EXBdkhxnNK0MGSB1IaBYvA
-- telegram news channel https://t.me/joinchat/AAAAAEr_pPlB7IeqODUzuA
+- telegram chat room https://t.me/joinchat/EXBdkhxnNK0MGSB1IaBYvA (by default Russian)
+- telegram news channel https://t.me/joinchat/AAAAAEr_pPlB7IeqODUzuA (by default Russian)
 
 
 # Lectures and seminars
+The timetable may be change.
+Lectures: 13:00 - 14:30 (UTC+3)
+Seminars: 14:40 - 16:10 (UTC+3)
 | #   | Date | Lecture | Seminar |
 | --- | ---- | ------- | ------- |
 | 1  | 2020-09-18 | Introduction to the topic | About homeworks, tasks evaluation and technical details |
@@ -38,8 +41,8 @@ There will be several types of hw:
 | #   | Name | Date Published | Deadline |
 | --- | ---- | -------------- | -------- |
 | 1  | HW#1  | Week 2 | Week 4 |
-| 2  | HW#1  | Week 4 | Week 6 |
-| 3  | HW#1  | Week 6 | Week 8 |
-| 4  | HW#1  | Week 8 | Week 10 |
-| 5  | HW#1  | Week 10 | Week 12 |
+| 2  | HW#2  | Week 4 | Week 6 |
+| 3  | HW#3  | Week 6 | Week 8 |
+| 4  | HW#4  | Week 8 | Week 10 |
+| 5  | HW#5  | Week 10 | Week 12 |
 
