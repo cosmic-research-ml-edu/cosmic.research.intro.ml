@@ -20,11 +20,13 @@ The timetable may be change.
 - Lectures: 13:00 - 14:30 (UTC+3)
 - Seminars: 14:40 - 16:10 (UTC+3)
 
+Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWRlitCWQ
+
 | #  | Date | Lecture | Seminar |
 | -- | ---- | ------- | ------- |
 | 1  | 2020-09-18 | Introduction to the topic | About homeworks, tasks evaluation and technical details |
-| 2  | 2020-09-25 | Metric Algorithms, kNN | Matrix Derivatives |
-| 3  | 2020-10-02 | Decision Trees | Quality of classification |
+| 2  | 2020-09-25 | Metric Algorithms, kNN | Quality of classification |
+| 3  | 2020-10-02 | Decision Trees | Matrix Derivatives |
 | 4  | 2020-10-09 | Linear Models | PCA and SVD |
 | 5  | 2020-10-16 | SVM | On crossvalidation and data preprocessing |
 | 6  | 2020-10-23 | Regularized Linear Models | Homework discussions |
