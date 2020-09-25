@@ -5,7 +5,7 @@ This is a repo for a course at the Department of Cosmic Research, MSU. The cours
 # General info
 - The course consists of 11-12 lectures and seminars and 5-6 homeworks.
 - All lectures and seminars will be held **online** via Zoom and probably recorded (Zoom screen capture).
-- PDFs with lecture slides will be published.
+- PDFs with lecture slides will be published here: https://yadi.sk/d/gRxvenWRlitCWQ
 - All homeworks are to be submitted **online**.
 - There will be no exams, final mark is based on homeworks only.
 
