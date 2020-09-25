@@ -40,9 +40,14 @@ Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWR
 
 
 # Homeworks and deadlines
+
+## Late Submission Discounts:
+- 1st week after deadline: 50%
+- 2nd+ weeks: 25%
+
 | #   | Name | Date Published | Deadline |
 | --- | ---- | -------------- | -------- |
-| 1  | HW#1  | Week 2 | Week 4 |
+| 1  | HW#1  | 2020-09-25 | 2020-10-11 23:00:00 +03:00 |
 | 2  | HW#2  | Week 4 | Week 6 |
 | 3  | HW#3  | Week 6 | Week 8 |
 | 4  | HW#4  | Week 8 | Week 10 |
