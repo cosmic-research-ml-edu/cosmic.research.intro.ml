@@ -42,8 +42,8 @@ Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWR
 # Homeworks and deadlines
 
 ## Late Submission Discounts:
-- 1st week after deadline: 50%
-- 2nd+ weeks: 25%
+- Within the 1st week after the deadline: each score is multiplied by 0.75
+- 2nd+ weeks: each score is multiplied by 0.50
 
 | #   | Name | Date Published | Deadline |
 | --- | ---- | -------------- | -------- |
