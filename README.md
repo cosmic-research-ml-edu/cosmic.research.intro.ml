@@ -10,7 +10,7 @@ This is a repo for a course at the Department of Cosmic Research, MSU. The cours
 - There will be no exams, final mark is based on homeworks only.
 
 # Communication
-- email `сosmic.research.ml@yandex.ru`
+- email `cosmic.research.ml@yandex.ru`
 - telegram chat room https://t.me/joinchat/EXBdkhxnNK0MGSB1IaBYvA (by default Russian)
 - telegram news channel https://t.me/joinchat/AAAAAEr_pPlB7IeqODUzuA (by default Russian)
 
