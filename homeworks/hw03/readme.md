@@ -1,11 +1,10 @@
 ## Welcome to Homework #3
 
-This homework is in a format of kaggle competition;
-The competition is hosted here: https://www.kaggle.com/c/cosmic-research-ml-lab03/overview
+This homework is in a format of kaggle competition
 
-
- You will have 5 submissions a day
- You may choose 2 submission for the final score
+- The competition is hosted here: https://www.kaggle.com/c/cosmic-research-ml-lab03/overview
+- You will have 5 submissions a day
+- You may choose 2 submission for the final score
  
 **Important:** 
 - Use your real names when participating in this competition. That would help really help to count your final score correctly
