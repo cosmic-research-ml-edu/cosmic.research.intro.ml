@@ -2,7 +2,7 @@
 
 This homework is in a format of kaggle competition
 
-- The competition is hosted here: https://www.kaggle.com/c/cosmic-research-ml-lab03/overview
+- The competition is hosted here: https://www.kaggle.com/c/cosmicresearchml-lab03-v20/
 - You will have 5 submissions a day
 - You may choose 2 submission for the final score
  
