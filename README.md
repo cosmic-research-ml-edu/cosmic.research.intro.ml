@@ -41,12 +41,6 @@ Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWR
 
 # Homeworks and deadlines
 
-## Late Submission Discounts:
-- Within the 1st week after the deadline: each score is multiplied by 0.75
-- 2nd+ weeks: each score is multiplied by 0.50
-- Late submissions are not allowed in HW#3 and HW#5
-- Submission rules for HW#3: [link](https://github.com/cosmic-research-ml-edu/cosmic.research.intro.ml/tree/master/homeworks/hw03)
-
 | #   | Name | Date Published | Deadline |  Link |
 | --- | ---- | -------------- | -------- | -- |
 | 1  | HW#1  Intro to numpy and pandas| 2020-09-25 | 2020-10-11 23:00:00 +03:00 | [repo](https://github.com/cosmic-research-ml-edu/cosmic.research.intro.ml/tree/master/homeworks/hw01)|
@@ -54,4 +48,11 @@ Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWR
 | 3  | HW#3  Kaggle: Predictiong Dota2 match outcome | 2020-10-23| 2020-11-02 23:00:00 +03:00 / 2020-11-11 23:00:00 +03:00| [repo](https://github.com/cosmic-research-ml-edu/cosmic.research.intro.ml/tree/master/homeworks/hw03) [kaggle](https://www.kaggle.com/c/cosmicresearchml-lab03-v20/leaderboard) (invite link needed)|
 | 4  | HW#4  TextClassification | 2020-11-06 | 2020-11-22 23:00:00 +03:00 |
 | 5  | HW#5  Kaggle: Audio classification | 2020-11-20 | 2020-11-30 23:00:00 +03:00 / 2020-12-09 23:00:00 +03:00|
+
+
+## Late Submission Discounts:
+- Within the 1st week after the deadline: each score is multiplied by 0.75
+- 2nd+ weeks: each score is multiplied by 0.50
+- Late submissions are not allowed in HW#3 and HW#5
+- Submission rules for HW#3: [link](https://github.com/cosmic-research-ml-edu/cosmic.research.intro.ml/tree/master/homeworks/hw03)
 
