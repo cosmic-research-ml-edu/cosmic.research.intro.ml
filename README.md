@@ -46,7 +46,7 @@ Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWR
 | 1  | HW#1  Intro to numpy and pandas| 2020-09-25 | 2020-10-11 23:00:00 +03:00 | [repo](https://github.com/cosmic-research-ml-edu/cosmic.research.intro.ml/tree/master/homeworks/hw01)|
 | 2  | HW#2  Basic feature selection and hyperparameter tuning | 2020-10-09 | 2020-10-25 23:00:00 +03:00 | [repo](https://github.com/cosmic-research-ml-edu/cosmic.research.intro.ml/tree/master/homeworks/hw02)|
 | 3  | HW#3  Kaggle: Predictiong Dota2 match outcome | 2020-10-23| 2020-11-02 23:00:00 +03:00 / 2020-11-11 23:00:00 +03:00| [repo](https://github.com/cosmic-research-ml-edu/cosmic.research.intro.ml/tree/master/homeworks/hw03) [kaggle](https://www.kaggle.com/c/cosmicresearchml-lab03-v20/leaderboard) (invite link needed)|
-| 4  | HW#4  TextClassification | 2020-11-06 | 2020-11-22 23:00:00 +03:00 |
+| 4  | HW#4  TextClassification | 2020-11-06 | 2020-11-22 23:00:00 +03:00 | [repo](https://github.com/cosmic-research-ml-edu/cosmic.research.intro.ml/tree/master/homeworks/hw04)|
 | 5  | HW#5  Kaggle: Audio classification | 2020-11-20 | 2020-11-30 23:00:00 +03:00 / 2020-12-09 23:00:00 +03:00|
 
 
