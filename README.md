@@ -56,3 +56,15 @@ Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWR
 - Late submissions are not allowed in HW#3 and HW#5
 - Submission rules for HW#3: [link](https://github.com/cosmic-research-ml-edu/cosmic.research.intro.ml/tree/master/homeworks/hw03)
 
+
+## HW03 points
+- Everyone starts with **0**.
+- Beating Baseline before Medium Deadline **+5**
+- 1st place **+25**
+- 2nd place **+20**
+- 3rd place **+15**
+- Places 4-6 **+10**
+- Places 7-9 **+9**
+- Places 10-12 **+8**
+- Places 13-15 **+7**
+- Places 16-18 **+6**
