@@ -57,7 +57,7 @@ Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWR
 - Submission rules for HW#3: [link](https://github.com/cosmic-research-ml-edu/cosmic.research.intro.ml/tree/master/homeworks/hw03)
 
 
-## HW03 points
+## HW#3 points
 - Everyone starts with **0**.
 - Beating Baseline before Medium Deadline **+5**
 - 1st place **+25**
