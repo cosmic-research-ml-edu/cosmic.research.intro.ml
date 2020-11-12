@@ -29,11 +29,11 @@ Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWR
 | 3  | 2020-10-02 | Decision Trees | kFolds in hyperparameter tuning and ensembling |
 | 4  | 2020-10-09 | Linear Models | PCA and SVD |
 | 5  | 2020-10-16 | SVM | Intro to DataScience web resources|
-| 6  | 2020-10-23 | Regularized Linear Models | To be anounced |
+| 6  | 2020-10-23 | Regularized Linear Models | HW#1 discussions |
 | 7  | 2020-10-30 | Time Series | Practical Analytics: Designing Alerting Systems |
 | 8  | 2020-11-06 | Text Classification | VowpalWabbit |
-| 9  | 2020-11-13 | Bayes approach | Intro to Business Intelligence |
-| 10 | 2020-11-20 | EM, Clustering| To be anounced |
+| 9  | 2020-11-13 | Bayes approach, EM | HW#3 discussions |
+| 10 | 2020-11-20 | Clustering| Intro to Business Intelligence |
 | 11 | 2020-11-27 | Ranking | To be anounced |
 | 12 | 2020-12-04 | Extreme Gradient Boosting | To be anounced |
 
