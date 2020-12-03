@@ -34,8 +34,9 @@ Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWR
 | 8  | 2020-11-06 | Text Classification | VowpalWabbit |
 | 9  | 2020-11-13 | Bayes approach, EM | HW#3 discussions |
 | 10 | 2020-11-20 | Clustering| Intro to Business Intelligence |
-| 11 | 2020-11-27 | Ranking | To be anounced |
-| 12 | 2020-12-04 | Extreme Gradient Boosting | To be anounced |
+| 11 | 2020-11-27 | Ranking | Where to apply |
+| 12 | 2020-12-04 | Gradient Boosting | Rescheduled to 2020-12-11 |
+| 13 | 2020-12-11 | Seminar: HW#5 | --- |
 
 
 
