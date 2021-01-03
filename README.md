@@ -69,3 +69,11 @@ Presentations and videos can be downloaded from here: https://yadi.sk/d/gRxvenWR
 - Places 10-12 **+8**
 - Places 13-15 **+7**
 - Places 16-18 **+6**
+
+## Acknowledgements
+
+This course was inspired by
+-  The course by Konstantin Vorontsov from the Coursera [[link]](https://ru.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
+- MIT OpenCourseWare Machine Learning course: **Rohit Singh, Tommi Jaakkola, and Ali Mohammad. 6.867 Machine Learning. Fall 2006. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.**
+- Data Mining In Action: [[link]](https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/videos)
+- Author's personal experience in Data Science obtained from Yandex School of Data Science [[link]](https://yandexdataschool.com/), working at Yandex [[link]](https://yandex.ru/company/), Lensa [[link]](https://lensa.com/about-us) and various ML-projects.
